@@ -9,7 +9,8 @@ pip install pre-commit
 git clone https://github.com/djgoku/pre-commit.git ~/.githooks
 git config --global core.hooksPath ~/.githooks
 chmod +x ~/.githooks/pre-commit
-``
+```
+
 ### Usage
 
 Each time you run `git commit` globally the `~/.githooks/pre-commit` shell
