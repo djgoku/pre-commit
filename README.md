@@ -39,14 +39,14 @@ No-tabs checker..........................................................Passed
 ### Current Hooks
 
 *  https://github.com/pre-commit/pre-commit-hooks
-** trailing-whitespace
-** detect-aws-credentials
-** detect-private-key
-** check-merge-conflict
+    * trailing-whitespace
+    * detect-aws-credentials
+    * detect-private-key
+    * check-merge-conflict
 * https://github.com/antonbabenko/pre-commit-terraform
-** terraform_fmt
-** terraform_docs
-** terraform_validate_no_variables
-** terraform_validate_with_variables
+    * terraform_fmt
+    * terraform_docs
+    * terraform_validate_no_variables
+    * terraform_validate_with_variables
 * https://github.com/Lucas-C/pre-commit-hooks
-** forbid-tabs
+    * forbid-tabs
